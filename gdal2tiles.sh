@@ -2,4 +2,4 @@
 
 set -x
 
-gdal2tiles.py ./index50kP2.tif
+gdal2tiles.py --zoom=7-11 index50kP2.tif index50kP2

@@ -18,12 +18,12 @@ Una volta pubblicata la cartella che contiene i tasselli su un *repository* gith
 
 ![](https://i.imgur.com/7Hn8DOi.png)
 
-L'URL del *repository* è evidenziato nella striscia verde. Quindi quello della cartella dei tasselli è in questo caso `https://aborruso.github.io/gdal2tiles_su_github/index50kP2/`.
+L'URL del *repository* è evidenziato nella striscia verde. Quindi quello della cartella dei tasselli è in questo caso `https://pigreco.github.io/gdal2tiles_su_github/index50kP2/`.
 
 Per utilizzare questa sorgente in QGIS, bisogna creare un layer `XYZ` con questo URL
 
 ```
-https://aborruso.github.io/gdal2tiles_su_github/index50kP2/{z}/{x}/{-y}.png
+https://pigreco.github.io/gdal2tiles_su_github/index50kP2/{z}/{x}/{-y}.png
 ```
 
 
